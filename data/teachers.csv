@@ -1,0 +1,6 @@
+id,name,faculty,degree,debt,forbid_date,join_date,left_date
+6, Charles Luis Miller ,Math,bachelor,10,2,2018-11-09,2019-11-09
+7, Cody Isaac Taylor ,Physics,master,13,3,2019-11-09,2019-12-09
+8, Jeremiah Nicholas Robinson ,Psychology,doctor,13,5,2019-11-09,1000-01-01
+9, Wyatt Isaiah Ramirez ,Math,doctor,0,6,2018-12-09,1000-01-01
+10, Landon Angel Powell ,Physics,magistr,3,0,2018-12-09,1000-01-01

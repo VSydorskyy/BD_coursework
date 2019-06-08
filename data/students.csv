@@ -1,0 +1,6 @@
+id,name,faculty,group_num,debt,coures,forbid_date,join_date,left_date
+1,Jake Kyle Smith,Physics,1,10,1,1,2018-11-09,2019-11-09
+2,Nathan Jeremiah Roberts,Math,2,12,1,2,2019-11-09,2019-12-09
+3, Aiden Dylan Wright ,Physics,1,15,2,0,2019-11-09,1000-01-01
+4, James Owen Turner ,Math,2,0,2,4,2018-12-09,1000-01-01
+5, Alexander Colin James ,Cyber secutity,1,11,3,6,2018-12-09,1000-01-01
