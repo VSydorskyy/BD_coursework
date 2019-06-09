@@ -1,6 +1,51 @@
 id,name,faculty,group_num,debt,coures,forbid_date,join_date,left_date
-1,Jake Kyle Smith,Physics,1,10,1,1,2018-11-09,2019-11-09
-2,Nathan Jeremiah Roberts,Math,2,12,1,2,2019-11-09,2019-12-09
-3, Aiden Dylan Wright ,Physics,1,15,2,0,2019-11-09,1000-01-01
-4, James Owen Turner ,Math,2,0,2,4,2018-12-09,1000-01-01
-5, Alexander Colin James ,Cyber secutity,1,11,3,6,2018-12-09,1000-01-01
+1,Lula King,Cyber security,3,0,1,6,2018-11-17,2019-10-19 00:00:00
+2,Paul Dombkowski,Physics,1,13,2,6,2018-06-14,1000-01-01 00:00:00
+3,Caroline Oconnor,Psychology,1,34,2,0,2017-09-30,1000-01-01 00:00:00
+4,Alison Spaniel,Cyber security,3,0,2,0,2019-11-26,2020-10-18 00:00:00
+5,Jeffrey Berry,Math,2,0,3,1,2018-04-13,2018-10-28 00:00:00
+6,Maria Mueller,Physics,1,0,3,2,2018-03-21,1000-01-01 00:00:00
+7,Willie Sherwood,Journalism,3,0,3,9,2018-10-30,2019-05-06 00:00:00
+8,Ann Maurer,Medicine,1,0,2,4,2019-07-21,2020-07-05 00:00:00
+9,Dominique Mccumber,Journalism,3,29,3,11,2018-02-05,2018-08-06 00:00:00
+10,Marilyn Tallant,Medicine,2,0,3,0,2017-12-10,1000-01-01 00:00:00
+11,Linda Robinson,Math,3,0,1,0,2017-09-11,2018-04-01 00:00:00
+12,Gregory Hight,Physics,3,29,2,9,2018-02-03,1000-01-01 00:00:00
+13,Scott Cunningham,Psychology,3,0,2,10,2017-07-04,2018-01-01 00:00:00
+14,Dennis Kirkwood,Medicine,2,30,1,0,2018-04-23,2018-10-27 00:00:00
+15,James Iversen,Psychology,1,0,2,5,2019-02-08,2019-11-17 00:00:00
+16,Curtis Mcdougle,Math,3,6,2,1,2018-09-29,2019-07-12 00:00:00
+17,Darlene Sharp,Physics,3,0,3,6,2018-03-25,2018-09-21 00:00:00
+18,Jermaine Smith,Math,1,22,1,0,2019-08-18,2020-03-04 00:00:00
+19,Eduardo Graham,Journalism,1,0,1,0,2018-05-03,2019-01-28 00:00:00
+20,Curtis To,Medicine,3,0,1,0,2018-02-09,1000-01-01 00:00:00
+21,Angie Werkhoven,Psychology,1,49,3,0,2017-12-25,1000-01-01 00:00:00
+22,Rick Russell,Cyber security,1,0,1,0,2019-10-11,2020-09-25 00:00:00
+23,Victor Bonifer,Journalism,1,0,3,2,2019-03-06,2019-10-07 00:00:00
+24,Ramona Goetz,Physics,1,21,1,0,2019-10-17,1000-01-01 00:00:00
+25,Charles Tola,Journalism,3,0,2,0,2019-02-23,2020-01-24 00:00:00
+26,Ted Allison,Journalism,1,0,1,0,2018-08-11,2019-02-18 00:00:00
+27,Thomas Roney,Physics,2,0,3,0,2018-04-04,1000-01-01 00:00:00
+28,Wilson Oleary,Math,2,0,2,0,2018-07-18,2019-05-02 00:00:00
+29,Patricia Surgeon,Medicine,2,41,1,11,2019-07-27,1000-01-01 00:00:00
+30,George Spicer,Physics,1,0,3,5,2018-01-31,1000-01-01 00:00:00
+31,Elaine Williams,Physics,1,0,1,0,2018-06-17,1000-01-01 00:00:00
+32,John Nash,Cyber security,3,0,3,10,2019-09-10,1000-01-01 00:00:00
+33,Jordan Tennyson,Math,3,43,2,5,2018-10-15,2019-05-07 00:00:00
+34,Lori Fudge,Physics,3,0,2,0,2018-01-03,1000-01-01 00:00:00
+35,Nichole Newby,Psychology,3,0,1,7,2018-08-12,2019-06-17 00:00:00
+36,Roger Zeno,Journalism,2,17,2,0,2019-12-25,2020-06-13 00:00:00
+37,Laurie Tuohy,Cyber security,3,0,2,8,2019-03-11,1000-01-01 00:00:00
+38,Sandra Mccarroll,Math,3,0,1,0,2019-01-17,2019-10-23 00:00:00
+39,Margarita Barnett,Cyber security,2,0,3,0,2018-01-09,1000-01-01 00:00:00
+40,Michael Hevner,Medicine,3,8,1,0,2018-08-09,1000-01-01 00:00:00
+41,Nettie Williams,Psychology,1,23,3,0,2018-01-26,1000-01-01 00:00:00
+42,Sally Heyman,Physics,3,49,1,0,2018-02-09,2018-10-17 00:00:00
+43,Sallie Leko,Psychology,2,24,1,0,2019-04-27,2019-10-14 00:00:00
+44,William Ponce,Medicine,2,37,3,0,2018-02-16,2018-12-30 00:00:00
+45,Richard Hickerson,Medicine,3,0,3,0,2018-08-17,1000-01-01 00:00:00
+46,Michelle Kravitz,Cyber security,2,0,3,0,2019-10-17,1000-01-01 00:00:00
+47,Evelyn Williams,Cyber security,1,0,2,0,2019-09-12,1000-01-01 00:00:00
+48,Mary Hunter,Medicine,3,29,1,4,2019-12-17,1000-01-01 00:00:00
+49,Bernard Dumont,Math,2,0,3,0,2019-10-24,1000-01-01 00:00:00
+50,Robert Gray,Math,3,0,1,0,2018-09-30,2019-09-09 00:00:00

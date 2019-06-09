@@ -1,6 +1,51 @@
 id,name,faculty,degree,debt,forbid_date,join_date,left_date
-6, Charles Luis Miller ,Math,bachelor,10,2,2018-11-09,2019-11-09
-7, Cody Isaac Taylor ,Physics,master,13,3,2019-11-09,2019-12-09
-8, Jeremiah Nicholas Robinson ,Psychology,doctor,13,5,2019-11-09,1000-01-01
-9, Wyatt Isaiah Ramirez ,Math,doctor,0,6,2018-12-09,1000-01-01
-10, Landon Angel Powell ,Physics,magistr,3,0,2018-12-09,1000-01-01
+51,Daniel Serra,Physics,Bachaleor,0,2,2019-03-13,1000-01-01 00:00:00
+52,Samantha Josilowsky,Psychology,Bachaleor,10,0,2018-01-21,1000-01-01 00:00:00
+53,Elsie Bolduc,Psychology,Bachaleor,0,6,2018-10-16,1000-01-01 00:00:00
+54,Beverly Gaines,Medicine,Phd,30,7,2017-09-20,2018-09-12 00:00:00
+55,Edith Smith,Physics,Aspirant,0,0,2019-05-28,1000-01-01 00:00:00
+56,James Rodriguez,Journalism,Bachaleor,25,0,2019-10-02,2020-09-21 00:00:00
+57,Michael Monte,Psychology,Bachaleor,0,11,2018-11-12,1000-01-01 00:00:00
+58,Douglas Morris,Journalism,Aspirant,3,11,2018-12-17,2019-11-30 00:00:00
+59,Karen Johnson,Journalism,Bachaleor,0,3,2018-10-31,1000-01-01 00:00:00
+60,Mary Wilson,Psychology,Phd,0,0,2018-03-15,1000-01-01 00:00:00
+61,Tracy Williams,Psychology,Master,3,11,2019-07-19,2020-02-04 00:00:00
+62,Yvette Sears,Medicine,Aspirant,15,0,2018-05-07,1000-01-01 00:00:00
+63,Faye Sterrett,Math,Master,18,0,2019-04-18,2020-03-18 00:00:00
+64,Theodore Camp,Journalism,Bachaleor,0,0,2018-03-11,1000-01-01 00:00:00
+65,Robert Salmon,Math,Master,0,0,2018-06-16,1000-01-01 00:00:00
+66,Steven Pepper,Physics,Phd,19,2,2018-05-20,1000-01-01 00:00:00
+67,Kimberly Tucker,Journalism,Master,10,0,2018-09-04,2019-03-07 00:00:00
+68,Kelly Peterson,Math,Bachaleor,0,0,2018-09-22,1000-01-01 00:00:00
+69,Joseph Shield,Physics,Master,0,7,2018-12-01,1000-01-01 00:00:00
+70,Karla Crouch,Physics,Aspirant,0,8,2017-12-22,1000-01-01 00:00:00
+71,Blanca Herron,Psychology,Aspirant,11,11,2017-11-10,1000-01-01 00:00:00
+72,Amanda Reed,Journalism,Aspirant,27,1,2018-07-09,1000-01-01 00:00:00
+73,Duane Souter,Psychology,Phd,50,0,2018-02-27,1000-01-01 00:00:00
+74,Carol Vasquez,Physics,Aspirant,0,1,2017-10-16,2018-07-27 00:00:00
+75,David Sinkfield,Medicine,Bachaleor,30,11,2019-02-03,2019-10-10 00:00:00
+76,Phyllis Chan,Journalism,Aspirant,0,1,2018-04-21,2019-01-05 00:00:00
+77,Kristina Salas,Journalism,Aspirant,8,0,2018-03-19,1000-01-01 00:00:00
+78,Matthew Dean,Psychology,Bachaleor,0,0,2017-07-30,1000-01-01 00:00:00
+79,Soon Bryant,Psychology,Phd,40,0,2019-04-13,2019-10-14 00:00:00
+80,Lee Land,Medicine,Master,0,9,2019-09-27,2020-06-22 00:00:00
+81,Paul Monroe,Medicine,Phd,0,0,2017-08-15,1000-01-01 00:00:00
+82,Joy Farness,Physics,Aspirant,47,3,2017-09-01,2018-06-25 00:00:00
+83,Elaine Gamble,Cyber security,Master,0,0,2019-01-12,1000-01-01 00:00:00
+84,Linda Bullock,Medicine,Master,0,7,2018-10-01,1000-01-01 00:00:00
+85,Christopher Hafele,Math,Bachaleor,0,5,2019-05-09,1000-01-01 00:00:00
+86,Christina Terrell,Math,Aspirant,21,0,2018-06-14,1000-01-01 00:00:00
+87,Frances Owens,Cyber security,Master,0,9,2019-03-05,2019-08-15 00:00:00
+88,Lisa Murphy,Cyber security,Aspirant,17,5,2019-02-18,2019-12-13 00:00:00
+89,Robert Vascocu,Psychology,Master,0,2,2017-11-05,1000-01-01 00:00:00
+90,Laurie Haddix,Physics,Phd,5,0,2019-09-30,2020-03-25 00:00:00
+91,Christopher Sumrall,Physics,Phd,32,1,2018-10-28,1000-01-01 00:00:00
+92,Arminda Mency,Cyber security,Bachaleor,0,0,2019-01-08,1000-01-01 00:00:00
+93,Becky Nickerson,Psychology,Bachaleor,20,0,2018-07-29,2019-05-15 00:00:00
+94,Javier Powles,Math,Aspirant,0,9,2019-08-08,2020-05-21 00:00:00
+95,Micheal Lavine,Journalism,Master,4,0,2019-11-30,1000-01-01 00:00:00
+96,Michael Cochran,Psychology,Bachaleor,0,0,2017-07-11,2018-06-30 00:00:00
+97,Antione Beren,Cyber security,Aspirant,2,1,2017-06-24,2018-05-26 00:00:00
+98,Teri Croghan,Cyber security,Phd,27,11,2019-10-29,2020-08-30 00:00:00
+99,Stephanie Vanos,Medicine,Aspirant,14,0,2017-11-23,2018-06-10 00:00:00
+100,Gerald Davis,Math,Aspirant,11,7,2019-07-03,2020-03-07 00:00:00
